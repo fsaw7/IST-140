@@ -1,1 +1,1 @@
-# IST-140
+# IST-140 Intro to App Development
